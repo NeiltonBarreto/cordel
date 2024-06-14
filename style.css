@@ -1,0 +1,39 @@
+header{
+  background-color:chocolate;
+  color: aliceblue;
+  padding: 10px;
+  text-align: center;
+  margin-top: 0px;
+  text-shadow: 5px 5px 5px black;
+}
+header h1{
+  font-family: "Passion One", sans-serif;
+}
+section p{
+  margin-top: 20px;
+  font-family: "Sriracha", cursive;
+  display: block;
+  padding: 10px;
+  text-align: center;
+}
+.n{
+  font-family: "Passion One", sans-serif;
+  text-align: center;
+}
+
+ .p2{
+    background-image: url("imagens/background001.jpg");
+    color: aliceblue;
+    background-position: right center ;
+    box-shadow:1px 1px 0px black;
+    background-attachment: fixed;
+    text-shadow: 5px 5px 5px black;
+    padding: 20px;
+} 
+.p5{
+    background-image: url("imagens/background002.jpg");
+    color: aliceblue;
+    background-attachment: fixed;
+    text-shadow: 5px 5px 5px black;
+    padding: 20px;
+} 
